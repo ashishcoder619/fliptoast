@@ -281,7 +281,7 @@ header.masthead .intro-text .intro-heading {
     margin: 0 auto;
     padding: 25px;
     text-align: center;
-    background-color: linear-gradient( lightcoral, maroon);
+    background-color: linear-gradient( rgb(9, 136, 9), rgba(30, 8, 126, 0.658));
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
