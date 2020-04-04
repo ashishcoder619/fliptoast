@@ -1,4 +1,4 @@
-baseurl: /drweb
+baseurl: /fliptoast
 permalink: pretty
 theme: jekyll-theme-midnight
 plugins:
