@@ -1,6 +1,6 @@
 body {
     overflow-x: hidden;
-    background-image: linear-gradient( lightcoral, maroon);
+    background-image: linear-gradient( rgb(73, 160, 73), rgb(28, 18, 165));
     font-family: 'Roboto Slab', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
@@ -444,9 +444,9 @@ header.masthead .intro-text .intro-heading {
     margin-left: 0;
     text-align: center;
     color: white;
-    border: 7px solid red;
+    border: 7px solid rgb(5, 11, 95);
     border-radius: 100%;
-    background-color: #fed136;
+    background-color: #36fe79;
 }
 
 .timeline>li .timeline-image h4 {
