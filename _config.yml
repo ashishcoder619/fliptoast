@@ -1,0 +1,5 @@
+baseurl: /drweb
+permalink: pretty
+theme: jekyll-theme-midnight
+plugins:
+  - jekyll-feed
